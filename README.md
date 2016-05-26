@@ -11,6 +11,6 @@ Then...
 
 See running version at: http://swiftr.azurewebsites.net. This works with the SwiftR iOS demo application.
 
-If you'd like to deploy to your own Azure instance:
+If you'd like to deploy this version to your own Azure instance:
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
