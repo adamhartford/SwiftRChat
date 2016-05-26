@@ -1,5 +1,5 @@
 # SwiftRChat
-Simple SignalR application to demo SwiftR
+Simple SignalR application to demo [SwiftR](https://github.com/adamhartford/SwiftR)
 
 Start with this: http://www.asp.net/signalr/overview/deployment/using-signalr-with-azure-web-sites
 
